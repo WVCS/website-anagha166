@@ -1,3 +1,24 @@
 body {
   background-color: lightblue;
 }
+nav {
+  list-style-type: none;
+  background-color:  #C5D86D;
+  width: 100%;
+  margin: 0;
+  overflow: hidden; 
+  position: fixed;
+  padding: 20px 60px;
+}
+li {
+ float: left; 
+}
+
+li a{
+  padding: 20px 60px;    
+}
+
+li a: hover{
+  background-color: #C5D86D;
+    color: #9BC4CB 
+}
