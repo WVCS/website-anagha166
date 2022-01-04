@@ -22,6 +22,6 @@ li a{
 }
 
 li a:hover {
-  background-color: #C5D86D;
-    color: #9BC4CB; 
+  background-color:lightgreen;
+    color: blue; 
 }
