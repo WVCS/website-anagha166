@@ -15,8 +15,8 @@ li {
 }
 
 li a{
-  display: blue;
-  color: lightgreen;
+  display: lightgreen;
+  color: blue;
    text-decoration: none;
   padding: 20px 60px;    
 }
