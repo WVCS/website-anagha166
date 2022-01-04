@@ -15,10 +15,13 @@ li {
 }
 
 li a{
+  display: blue;
+  color: lightgreen;
+   text-decoration: none;
   padding: 20px 60px;    
 }
 
-li a: hover{
+li a:hover {
   background-color: #C5D86D;
-    color: #9BC4CB 
+    color: #9BC4CB; 
 }
