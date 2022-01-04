@@ -1,9 +1,9 @@
 body {
-  background-color: lightblue;
+  background-color: #AAC5AA;
 }
 nav {
   list-style-type: none;
-  background-color:  #C5D86D;
+  background-color:  #588157;
   width: 100%;
   margin: 0;
   overflow: hidden; 
@@ -15,13 +15,12 @@ li {
 }
 
 li a{
-  display: black;
-  color: white;
+  color:white;
    text-decoration: none;
   padding: 20px 60px;    
 }
 
 li a:hover {
-  background-color:red;
-    color: orange; 
+  background-color: #ACC9E0; 
+  color:black;
 }
