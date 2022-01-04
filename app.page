@@ -1,1 +1,18 @@
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://www.nicepng.com/png/full/940-9401041_blue-bird-200-bird-clipart-png-cute.png">
+	<title> Bird's Eye View </title>
+</head>
 
+<body>
+	<nav>
+       <li><a href="index.html"> Home </a></li>
+       <li><a href="https://www.powayusd.com/schools/hs/wvhs/Calendars/Schedules/Bell-Schedule"> Westview </a></li>
+       <li><a href="secondpage.html"> Learn! </a></li>
+     </nav>
+  
+	<h1> Welcome to Bird's Eye View. Click "Learn!" to explore 100 species of birds and their characteristics! </h1>
+  
+  </body>
+</html>
