@@ -15,13 +15,13 @@ li {
 }
 
 li a{
-  display: lightgreen;
-  color: blue;
+  display: black;
+  color: white;
    text-decoration: none;
   padding: 20px 60px;    
 }
 
 li a:hover {
-  background-color:lightgreen;
-    color: blue; 
+  background-color:red;
+    color: orange; 
 }
