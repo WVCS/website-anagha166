@@ -1,9 +1,9 @@
 body {
-  background-color: #AAC5AA;
+  background-color: #bde0fe;
 }
 nav {
   list-style-type: none;
-  background-color:  #588157;
+  background-color:  #219ebc;
   width: 100%;
   margin: 0;
   overflow: hidden; 
@@ -21,6 +21,6 @@ li a{
 }
 
 li a:hover {
-  background-color: #ACC9E0; 
+  background-color: #99d98c; 
   color:black;
 }
